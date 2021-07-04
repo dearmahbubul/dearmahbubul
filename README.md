@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/dearmahbubul">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="mailto:mahbubulalam@gmail.com">
+<a href="mailto:mahbubulalam5676@gmail.com">
   <img align="left" alt="Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.facebook.com/dearmahbubul">
