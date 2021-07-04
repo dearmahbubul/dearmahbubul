@@ -25,7 +25,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 
 ## Portfolio
-<a href="https://drive.google.com/file/d/1A-X036VIYw0H6tJzTSIsdlR3YNjGC2LB/view?usp=sharing">Download Resume</a>
+<a href="https://drive.google.com/file/d/1A-X036VIYw0H6tJzTSIsdlR3YNjGC2LB/view?usp=sharing" target="_blank">Download CV</a>
 
 ## Reach Me
 <a href="https://www.linkedin.com/in/dearmahbubul">
