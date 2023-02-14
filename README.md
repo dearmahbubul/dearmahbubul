@@ -6,7 +6,7 @@
 
 <br/>
 
-<p>I am a BSc graduated Full Stack Engineer from Bangladesh and working in the industry for more than 2.5 years. I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have more than 2.5 years of experience in PHP(Laravel, Codeigniter), Javascript(React, Redux, Vue), SQL(Mysql, MariaDB), NoSql(MongoDb), and various applications across multiple sectors. I am eager to learn, enjoy overcoming challenges, and I have a genuine interest in programming and software development.</p>
+<p>I am a BSc graduated Software Engineer and working in the industry for more than 5 years. I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have more than 5 years of experience in PHP(Laravel, Codeigniter), Javascript(React, Next, Redux, Vue, Nuxt), NodeJs(Nest, Express), SQL(Mysql, MariaDB), NoSql(MongoDb), and various applications across multiple sectors. I am eager to learn, enjoy overcoming challenges, and I have a genuine interest in programming and software development.</p>
 
 ## My Tech Stack
 
