@@ -111,7 +111,7 @@ Experienced in modern AI-native development using **AI Agents, MCP servers, Cont
 
 ## 📄 Resume
 
-<a href="[https://drive.google.com/file/d/1A-X036VIYw0H6tJzTSIsdlR3YNjGC2LB/view?usp=sharing](https://drive.google.com/file/d/12W5LPZtiFTw1zSqcFmXdpfDUNyBN_cft/view?usp=sharing)" target="_blank">⬇️ Download CV</a>
+<a href="https://drive.google.com/file/d/12W5LPZtiFTw1zSqcFmXdpfDUNyBN_cft/view?usp=sharing" target="_blank">⬇️ Download CV</a>
 
 ---
 
