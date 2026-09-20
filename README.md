@@ -27,28 +27,34 @@
 
 ## 📌 About Me
 
-**Full-Stack Developer &amp; Technical Lead** with 7+ years of hands-on experience architecting enterprise-grade SaaS platforms, AI systems and cross-platform mobile apps. Specialized in scalable microservices, secure REST APIs and event-driven architecture across Laravel, Node.js, Python and React Native, with applied AI delivery spanning RAG pipelines, LLM workflows and AI-powered automation.
+**Full-Stack Developer &amp; Technical Lead** with 7+ years of experience building enterprise SaaS platforms, scalable backend architectures, and modern AI integrations. Working across Laravel, Node.js, Python, and React Native, I focus on delivering end-to-end applications backed by **RAG architecture, AI Frameworks (LangChain/LlamaIndex), MCP (Tool &amp; Data Integration), and Autonomous Agents**.
 
-Experienced in modern AI-native development using **AI Agents, MCP servers, Context Engineering** and AI-assisted workflows for requirements analysis, technical planning, architecture, coding, testing and code review. Production-minded by default: Docker workflows, optimized SQL / NoSQL / Vector data layers and robust CI/CD pipelines for products like Matchable, SalesPype and LuxiWorld. Available for global remote opportunities across any timezone.
+I actively incorporate AI into my daily engineering workflow to streamline **requirements analysis, technical planning, system architecture, coding, automated testing, and code reviews**. Reliable in high-growth environments, with strong hands-on experience in Docker, Kubernetes, database design (SQL/NoSQL/Vector), and CI/CD. Open to global remote opportunities across all time zones.
 
 ---
 
 ## 🧩 My Tech Stack
 
 ### Frontend
-`React` `Next.js` `Vue.js` `React Native (Expo)` `TypeScript` `Redux Toolkit` `Tailwind CSS` `SSR / SSG` `Inertia.js`
+`React` `Next.js` `Vue.js` `TypeScript` `React Native (Expo)` `Redux Toolkit` `Tailwind CSS` `SSR / SSG` `Inertia.js`
 
 ### Backend
-`PHP (Laravel)` `Node.js (Express, NestJS)` `Python` `REST APIs` `Authentication & Authorization` `WebSockets` `Background Jobs & Queues` `Third-Party API Integration` `Payment`
+`PHP (Laravel)` `Node.js (Express, NestJS)` `Python (Flask)` `Payment Integration` `Background Jobs & Queues` `REST APIs` `Authentication & Authorization` `Third-Party API Integration`
 
 ### Data & Messaging
-`MySQL / MariaDB` `PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Kafka` `Database Design` `Query Optimization` `Caching` `Real-Time Systems`
+`MySQL / MariaDB` `PostgreSQL` `MongoDB` `Redis` `WebSockets` `RabbitMQ` `Kafka` `Database Design` `Query Optimization` `Caching` `Real-Time Systems`
 
 ### AI Engineering
-`OpenAI API` `LLM Integration` `AI Agents` `RAG Pipelines` `Context Engineering` `Prompt Engineering` `Embeddings` `Vector Databases` `AI-Powered Automation`
+`AI Agents & Workflows` `RAG Architecture` `Vector Databases` `LLM Integration` `AI Frameworks (LangChain / LlamaIndex)` `MCP (Tool & Data Integration)` `Prompt & Context Engineering` `AI Automation`
 
 ### Cloud & DevOps
 `Docker` `Docker Compose` `Kubernetes` `AWS` `DigitalOcean` `EC2` `Nginx` `Linux` `CI/CD` `GitHub Actions` `SSL / TLS` `Monitoring & Logging`
+
+---
+
+## 🏗️ Architecture & Practice
+
+`System Design` `Modular Monolith` `Microservices` `Event Driven Design` `Domain Driven Design` `Hexagonal` `Clean Architecture` `SOLID Principles` `Multi-Tenancy` `Scalable API Architecture` `Database Architecture` `Caching Strategies` `Asynchronous Processing` `Fault Tolerance` `API Security`
 
 ---
 
@@ -57,33 +63,35 @@ Experienced in modern AI-native development using **AI Agents, MCP servers, Cont
 ### Senior Full-Stack Engineer — Barakah Tech Zone
 `Jan 2025 — Present`
 
-- Directed end-to-end technical strategy for a digital agency - leading cross-functional teams to deliver complex client solutions across multiple industries.
-- Engineered high-volume e-commerce and web platforms (LuxiWorld) with custom storefronts, streamlined checkout, payment gateways and robust inventory management.
-- Shipped cross-platform mobile apps and custom SaaS products - Gyfter, eTags and Socialmulli - ensuring high availability and seamless user experiences.
-- Standardized Docker-based DevOps workflows and modular Laravel/Node.js + React/React Native architecture behind secure RESTful APIs.
+- Led technical strategy and delivery across 12 production systems, managing 4 engineers and serving clients across 13+ countries—reducing average delivery time by 30%.
+- Architected and delivered complex e-commerce workflows covering storefronts, checkout, payments, inventory, and order processing—handling 1,800 orders/month with 22% lower checkout drop-off.
+- Shipped three cross-platform SaaS products serving 15,000+ users at 99.9% uptime.
+- Introduced AI agents using OpenAI Codex and Anthropic Claude to automate code generation, testing, debugging, and technical analysis.
+- Standardized containerized CI/CD with AWS ECR, ECS, and Load Balancers across projects, reducing deployment time from 45 to 8 minutes.
 
 ### Senior Full-Stack Engineer — Matchable
 `Aug 2023 — Dec 2024`
 
-- Implemented RAG with vector databases for high-precision candidate-job matching; integrated OpenAI Codex and Anthropic Claude for automated code generation and AI-driven search.
-- Built WebRTC video conferencing and Node.js/WebSocket chat; architected secure assessments with facial recognition and automated cheating detection.
-- Restructured a monolithic application into a Domain-Driven Design architecture, fully containerized with Docker.
-- Led development sprints, code reviews and system architecture while running Laravel Horizon/Redis queues under high throughput.
+- Built an AI-powered RAG matching system—improving match precision from 61% to 89% and reducing manual screening by 45%.
+- Architected real-time video conferencing and chat supporting 200 concurrent sessions, with secure assessments and automated cheating detection.
+- Re-architected a large application into a modular monolith and unified monorepo, integrating NestJS and Next.js with Hexagonal Architecture and SOLID principles—reducing release cycles from 3 weeks to 2 days.
+- Led 6 developers across 14 sprints, driving architecture, code reviews, and high-throughput queue processing.
 
 ### Full-Stack Engineer — Innovation Place BD
 `Aug 2021 — Jul 2023`
 
-- Built complete Hospital Management Systems - electronic patient records, clinical scheduling, appointments and billing - plus an HR management platform (HRMP) covering employee performance, time tracking and automated payroll.
-- Designed financial accounts tracking (AMS), inventory control (IMS) and custom ERP applications managing stock, order fulfillment and large-scale operations with SMS/MMS and banking modules.
-- Developed dynamic web applications, scalable e-commerce platforms and custom CMS solutions, integrating digital signage, LED display hardware and automated outdoor billboard technologies.
-- Designed secure RESTful APIs processing high-volume operational data with Laravel, Node.js, NestJS and React - deployed via Docker for high availability.
+- Built enterprise healthcare and HR management systems covering electronic patient records, clinical scheduling, appointments, billing, employee management, attendance, and payroll for 900+ staff across 6 facilities.
+- Designed accounting, inventory, and ERP systems managing 4,000 SKUs and 2,500 orders/month with integrated SMS/MMS workflows.
+- Delivered custom CMS and business applications across 11 client deployments, adapting systems to diverse operational requirements.
+- Engineered high-throughput REST APIs handling 250,000 requests/day, using Redis caching, database read replicas, query/index optimization, and asynchronous processing to improve scalability and response times.
 
 ### Junior Full-Stack Engineer — Orangetoolz
 `Jun 2019 — Jul 2021`
 
-- Architected and scaled core SaaS products including SalesPype - multi-tenant CRMs, automated gift-sending, interactive mapping, HRM and e-commerce.
-- Engineered React Native mobile apps and high-performance, secure RESTful APIs serving mobile and web clients.
-- Applied SOLID microservice decomposition with MySQL/MariaDB + MongoDB data modeling, PHPUnit test automation and Docker-based workflows.
+- Developed multi-tenant SaaS platforms across CRM, automation, HRM, mapping, and e-commerce, supporting 40 tenants and 6,000+ users.
+- Built cross-platform mobile applications and secure backend services serving 25,000+ users.
+- Integrated third-party platforms including Zapier, Google Ads, Facebook Ads, and mapping services to automate business and marketing workflows.
+- Decomposed a monolithic application into independently deployable microservices with clear service boundaries.
 
 ---
 
@@ -92,11 +100,11 @@ Experienced in modern AI-native development using **AI Agents, MCP servers, Cont
 | Project | Category | Description |
 |--------|----------|-------------|
 | [MyClassroom](https://www.myclassroom.com.bd/) | LMS | A live learning platform combining real-time classes, assessments and course management for educational institutions. |
-| [Scholars Home](https://scholars-home.org/) | LMS | An education management system covering admissions, academics, fees and communication for academic institutions. |
+| [Luxiworld](https://luxiworldbd.com/) | E-Commerce | A premium commerce platform with catalog management, payments and reseller support. |
+| [SocialMulli](https://socialmulli.com/) | SaaS | A marketing operations platform that keeps field representatives in front of the right opportunities, week after week. |
 | [PypeCRM](https://pypecrm.com/) | CRM | A pipeline-focused CRM for managing leads, deals and customer relationships with automation at its core. |
 | [SalesPype](https://salespype.com/) | SaaS | A multi-tenant sales acceleration product with subscription billing and team workspaces. |
 | [ChakriHub](https://chakrihub.ai/) | HR Tech | A recruitment and job-matching platform connecting candidates and employers with intelligent matching. |
-| [Luxiworld](https://luxiworldbd.com/) | E-Commerce | A premium commerce platform with catalog management, payments and reseller support. |
 | [RetailerBook](https://www.retailerbook.com) | ERP | A retail management system covering inventory, sales and supplier operations for retailers - with a React Native mobile app in active development. |
 | [TekumoPro](https://www.tekumo.com/) | Enterprise | An Uber-like field-service platform that connects businesses with local, skilled technicians for onsite technology installation, support and maintenance. |
 
