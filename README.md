@@ -39,7 +39,7 @@ I actively incorporate AI into my daily engineering workflow to streamline **req
 `React` `Next.js` `Vue.js` `TypeScript` `React Native (Expo)` `Redux Toolkit` `Tailwind CSS` `SSR / SSG` `Inertia.js`
 
 ### Backend
-`PHP (Laravel)` `Node.js (Express, NestJS)` `Python (Flask)` `Payment Integration` `Background Jobs & Queues` `REST APIs` `Authentication & Authorization` `Third-Party API Integration`
+`PHP (Laravel)` `Node.js (Express, NestJS)` `Python (FastApi)` `Payment Integration` `Background Jobs & Queues` `REST APIs` `Authentication & Authorization` `Third-Party API Integration`
 
 ### Data & Messaging
 `MySQL / MariaDB` `PostgreSQL` `MongoDB` `Redis` `WebSockets` `RabbitMQ` `Kafka` `Database Design` `Query Optimization` `Caching` `Real-Time Systems`
@@ -61,7 +61,7 @@ I actively incorporate AI into my daily engineering workflow to streamline **req
 ## 💼 Experience
 
 ### Senior Full-Stack Engineer — Barakah Tech Zone
-`Jan 2025 — Present`
+`Jan 2025 — July 2026`
 
 - Led technical strategy and delivery across 12 production systems, managing 4 engineers and serving clients across 13+ countries—reducing average delivery time by 30%.
 - Architected and delivered complex e-commerce workflows covering storefronts, checkout, payments, inventory, and order processing—handling 1,800 orders/month with 22% lower checkout drop-off.
