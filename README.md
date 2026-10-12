@@ -48,7 +48,7 @@ I actively incorporate AI into my daily engineering workflow to streamline **req
 `AI Agents & Workflows` `RAG Architecture` `Vector Databases` `LLM Integration` `AI Frameworks (LangChain / LlamaIndex)` `MCP (Tool & Data Integration)` `Prompt & Context Engineering` `AI Automation`
 
 ### Cloud & DevOps
-`Docker` `Docker Compose` `Kubernetes` `AWS` `DigitalOcean` `EC2` `Nginx` `Linux` `CI/CD` `GitHub Actions` `SSL / TLS` `Monitoring & Logging`
+`Docker` `Docker Compose` `Kubernetes` `AWS` `Coolify` `DigitalOcean` `EC2` `Nginx` `Linux` `CI/CD` `GitHub Actions` `SSL / TLS` `Monitoring & Logging`
 
 ---
 
@@ -77,13 +77,15 @@ I actively incorporate AI into my daily engineering workflow to streamline **req
 - Re-architected a large application into a modular monolith and unified monorepo, integrating NestJS and Next.js with Hexagonal Architecture and SOLID principles—reducing release cycles from 3 weeks to 2 days.
 - Led 6 developers across 14 sprints, driving architecture, code reviews, and high-throughput queue processing.
 
-### Full-Stack Engineer — Innovation Place BD
+### Full-Stack Engineer — iHealthScreen BD
 `Aug 2021 — Jul 2023`
 
 - Built enterprise healthcare and HR management systems covering electronic patient records, clinical scheduling, appointments, billing, employee management, attendance, and payroll for 900+ staff across 6 facilities.
 - Designed accounting, inventory, and ERP systems managing 4,000 SKUs and 2,500 orders/month with integrated SMS/MMS workflows.
 - Delivered custom CMS and business applications across 11 client deployments, adapting systems to diverse operational requirements.
 - Engineered high-throughput REST APIs handling 250,000 requests/day, using Redis caching, database read replicas, query/index optimization, and asynchronous processing to improve scalability and response times.
+- Built a hospital management system covering patient registration and admission, OPD/IPD management, doctor and department scheduling, electronic medical records, pharmacy and inventory, lab and diagnostic reports, billing, and ward/bed management.
+- Delivered a subscription-based e-prescription platform generating digital prescriptions for 100+ doctors — with drug/dosage templates, printable and paperless delivery, handling 60,000+ prescriptions/month.
 
 ### Junior Full-Stack Engineer — Orangetoolz
 `Jun 2019 — Jul 2021`
