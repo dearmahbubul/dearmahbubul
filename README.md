@@ -27,11 +27,7 @@
 
 ## 📌 About Me
 
-I’m a **senior full-stack engineer** with 7+ years of experience building SaaS platforms,
-enterprise applications, and distributed systems. I work across backend, web, and
-
-mobile, and I’m involved in the whole process: system architecture, API design, third-
-party integrations, and cloud infrastructure.
+I’m a **senior full-stack engineer** with 7+ years of experience building SaaS platforms,   enterprise applications, and distributed systems. I work across backend, web, and mobile, and I’m involved in the whole process: system architecture, API design, third-party integrations, and cloud infrastructure.
 
 Right now my main focus is AI engineering. I build RAG pipelines, LLM-powered
 applications, and agentic systems with LangChain, LlamaIndex, vector databases, and
