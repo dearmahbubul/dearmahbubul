@@ -27,9 +27,25 @@
 
 ## 📌 About Me
 
-**Full-Stack Developer &amp; Technical Lead** with 7+ years of experience building enterprise SaaS platforms, scalable backend architectures, and modern AI integrations. Working across Laravel, Node.js, Python, and React Native, I focus on delivering end-to-end applications backed by **RAG architecture, AI Frameworks (LangChain/LlamaIndex), MCP (Tool &amp; Data Integration), and Autonomous Agents**.
+I’m a **senior full-stack engineer** with 7+ years of experience building SaaS platforms,
+enterprise applications, and distributed systems. I work across backend, web, and
 
-I actively incorporate AI into my daily engineering workflow to streamline **requirements analysis, technical planning, system architecture, coding, automated testing, and code reviews**. Reliable in high-growth environments, with strong hands-on experience in Docker, Kubernetes, database design (SQL/NoSQL/Vector), and CI/CD. Open to global remote opportunities across all time zones.
+mobile, and I’m involved in the whole process: system architecture, API design, third-
+party integrations, and cloud infrastructure.
+
+Right now my main focus is AI engineering. I build RAG pipelines, LLM-powered
+applications, and agentic systems with LangChain, LlamaIndex, vector databases, and
+LLM orchestration. I’ve also done model fine-tuning, built custom agent skills, and
+developed MCP servers and clients. Much of this work is connecting AI models to
+external tools, APIs, and business systems, so AI assistants can actually do things
+instead of just answering questions.
+
+I also use AI assistants and agents throughout the SDLC: requirements analysis,
+planning, spec-driven development and design, architecture decisions,
+implementation, automated testing, and code reviews. On the infrastructure side, I
+work with microservices, Docker, CI/CD pipelines, and cloud deployment. I aim for
+maintainable architecture and production-ready software that’s easy for other
+developers to pick up.
 
 ---
 
