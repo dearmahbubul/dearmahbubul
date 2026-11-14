@@ -73,7 +73,7 @@ developers to pick up.
 ## 💼 Experience
 
 ### Senior Full-Stack Engineer — Barakah Tech Zone
-`Jan 2025 — July 2026`
+`Jan 2025 — August 2026`
 
 - Led technical strategy and delivery across 12 production systems, managing 4 engineers and serving clients across 13+ countries—reducing average delivery time by 30%.
 - Architected and delivered complex e-commerce workflows covering storefronts, checkout, payments, inventory, and order processing—handling 1,800 orders/month with 22% lower checkout drop-off.
